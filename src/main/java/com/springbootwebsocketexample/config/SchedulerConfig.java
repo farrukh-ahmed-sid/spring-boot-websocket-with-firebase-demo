@@ -1,6 +1,6 @@
-package com.techprimers.springbootwebsocketexample.config;
+package com.springbootwebsocketexample.config;
 
-import com.techprimers.springbootwebsocketexample.model.UserResponse;
+import com.springbootwebsocketexample.model.UserResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.SimpMessagingTemplate;

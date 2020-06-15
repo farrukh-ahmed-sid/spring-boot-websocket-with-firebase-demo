@@ -1,4 +1,4 @@
-package com.techprimers.springbootwebsocketexample;
+package com.springbootwebsocketexample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
